@@ -103,7 +103,7 @@ All three PCs attempted to ping the server at **10.0.0.1**. Due to Rule 1, all p
 PC-3 (David) opened the **Web Browser** from the Desktop tab and navigated to **http://10.0.0.1** to attempt to reach the server via HTTP.
 
 <p align="center">
-  <img src="HTTP%20Traffic%20Allowed.png" width="700">
+  <img src="HTTP%20Traffic%20allowed.png" width="700">
 </p>
 
 > ✅ Result: Server successfully reached via HTTP — confirming that IP traffic (including HTTP) is allowed while ICMP remains blocked.
